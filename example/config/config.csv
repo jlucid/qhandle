@@ -1,0 +1,3 @@
+serviceName,handleName,handleValue,primary,secondary,autoSwitch,connectActions,activeHost
+refRDB,refRDB,0Ni,localhost:50001,localhost:60001,1,(`.[`getMKT][`];`.[`getPRC][`]),
+refHDB,refHDB,0Ni,localhost:50002,localhost:60002,1,(`.[`getADV][`]),
